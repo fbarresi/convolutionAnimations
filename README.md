@@ -25,7 +25,7 @@ _N.B.: Blue maps are inputs, green maps are outputs, gray overlay is the kernel.
   <tr>
     <td><b>valid</b> convolution</td>
     <td><b>same</b> convolution<br/>Just enough padding is added to keep the size of the output equal to the size of the input</td>
-    <td><b>full</b> convolution<br/>Padding is added to make the every kernel element visit every single input</td>
+    <td><b>full</b> convolution<br/>Padding is added to make every kernel element visit every single input element</td>
   </tr>
 </table>
 
